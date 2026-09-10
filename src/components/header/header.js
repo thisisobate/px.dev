@@ -81,18 +81,18 @@ const Header = ({ whiteHeader, transparentMenu }) => {
         <div className={styles.newsBar}>
 
           <span className='hide-not-desktop'>
-          🎉️ Meet us in Atlanta for KubeCon + CloudNativeCon North America · Nov 10-13 ·
+          🎉️ Meet us in Salt Lake City for KubeCon + CloudNativeCon North America 2026 · Nov 9-12 ·
             {' '}
-            <a href='https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=px-dev&utm_medium=homepage&utm_campaign=10608228-KubeCon-NA-2025&utm_content=hero' target='_blank' rel='noreferrer'>
+            <a href='https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=pixie&utm_medium=ribbon-banner&utm_campaign=KubeCon-CloudNativeCon-NA-2026&utm_content=hero' target='_blank' rel='noreferrer'>
             Register Today!
             </a>
             {' '}
             🥳️
           </span>
           <span className='hide-desktop'>
-          🎉️ Meet us in Atlanta for KubeCon + CloudNativeCon North America · Nov 10-13 ·
+          🎉️ Meet us in Salt Lake City for KubeCon + CloudNativeCon North America 2026 · Nov 9-12 ·
             {' '}
-            <a href='https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=px-dev&utm_medium=homepage&utm_campaign=10608228-KubeCon-NA-2025&utm_content=hero' target='_blank' rel='noreferrer'>
+            <a href='https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=pixie&utm_medium=ribbon-banner&utm_campaign=KubeCon-CloudNativeCon-NA-2026&utm_content=hero' target='_blank' rel='noreferrer'>
             Register Today!
             </a>
             {' '}
